@@ -1,0 +1,10 @@
+D:\gitrepo\vb\vbconsole\ftptransfer\bin\Debug\ftptransfer.exe.config
+D:\gitrepo\vb\vbconsole\ftptransfer\bin\Debug\ftptransfer.exe
+D:\gitrepo\vb\vbconsole\ftptransfer\bin\Debug\ftptransfer.pdb
+D:\gitrepo\vb\vbconsole\ftptransfer\bin\Debug\ftptransfer.xml
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.vbprojResolveAssemblyReference.cache
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.Resources.resources
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.vbproj.GenerateResource.Cache
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.exe
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.xml
+D:\gitrepo\vb\vbconsole\ftptransfer\obj\Debug\ftptransfer.pdb

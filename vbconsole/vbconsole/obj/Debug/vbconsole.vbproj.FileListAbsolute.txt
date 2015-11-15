@@ -1,0 +1,13 @@
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\vbconsole.exe.config
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\vbconsole.exe
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\vbconsole.pdb
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\vbconsole.xml
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.vbprojResolveAssemblyReference.cache
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.Resources.resources
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.vbproj.GenerateResource.Cache
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.exe
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.xml
+D:\gitrepo\vb\vbconsole\vbconsole\obj\Debug\vbconsole.pdb
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\System.Net.Http.dll
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\System.Net.Http.xml
+D:\gitrepo\vb\vbconsole\vbconsole\bin\Debug\zh-Hans\System.Net.Http.resources.dll
